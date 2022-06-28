@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-ribeiro-sudo&layout=compact&langs_count=7&theme=dark"/>
     <h4>🔥 Streak Stats</h4>
    <p>
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=emanuel-ribeiro-sudo&layout=compact&theme=dracula" alt="hbtalha" />
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=emanuel-ribeiro-sudo&layout=compact&theme=dracula" alt="emanuel-ribeiro-sudo" />
    </p>
     <h4>📊 Stats</h4>
    <p>
